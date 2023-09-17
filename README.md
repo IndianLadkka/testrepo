@@ -6,5 +6,5 @@ testing phase
 - 🔭 I’m in my 2nd year in btech course in UPES, Dehradun.
 - 🌱 I’m presently learning  git 
 - 💬My hobbies are sports 
-- ⚡ Fun fact about me :  talkitive guy , loves playing badminton and playing drums
+- ⚡ Fun fact about me :  talkitive guy , loves playing badminton and playing drum
   
